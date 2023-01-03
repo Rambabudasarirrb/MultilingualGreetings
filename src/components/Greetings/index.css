@@ -1,0 +1,25 @@
+.Greeting-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.tittle {
+  font-family: 'Roboto';
+  font-size: 45px;
+  color: #1e293b;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.image {
+  height: 400px;
+  width: 500px;
+  align-items: center;
+}

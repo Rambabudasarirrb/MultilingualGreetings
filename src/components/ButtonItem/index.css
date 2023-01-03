@@ -1,0 +1,18 @@
+.button {
+  height: 30px;
+  border-radius: 10px;
+  border: solid 2px #db1c48;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 50px;
+}
+.activeButton {
+  background-color: #db1c48;
+  color: #ffffff;
+  font-size: 20px;
+}
+.in-activeButton {
+  background-color: #ffffff;
+  color: #db1c48;
+  font-size: 20px;
+}
